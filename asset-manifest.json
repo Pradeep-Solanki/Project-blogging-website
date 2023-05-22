@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pradeep-Solanki.github.io/Project-blogging-website/static/css/main.beab6b0a.css",
+    "main.js": "/Pradeep-Solanki.github.io/Project-blogging-website/static/js/main.8bd7bc46.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Pradeep-Solanki.github.io/Project-blogging-website/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Pradeep-Solanki.github.io/Project-blogging-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pradeep-Solanki.github.io/Project-blogging-website/index.html",
+    "main.beab6b0a.css.map": "/Pradeep-Solanki.github.io/Project-blogging-website/static/css/main.beab6b0a.css.map",
+    "main.8bd7bc46.js.map": "/Pradeep-Solanki.github.io/Project-blogging-website/static/js/main.8bd7bc46.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Pradeep-Solanki.github.io/Project-blogging-website/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beab6b0a.css",
+    "static/js/main.8bd7bc46.js"
+  ]
+}
