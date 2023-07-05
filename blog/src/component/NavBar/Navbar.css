@@ -1,0 +1,32 @@
+.list {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.color {
+    color: black;
+}
+
+nav ul li ul li {
+    display: inline;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav ul li ul {
+    position: relative;
+}
+
+.Logo img {
+    width: 100px;
+    /* align-self: flex-start; */
+}
+
+.NavList {
+    align-self: flex-end;
+    background-color: aqua;
+}
